@@ -1,0 +1,13 @@
+Approaches to solve recursive problems:
+
+1. Recursive tree
+2. Base condition - Induction - Hypothesis
+3. Choice diagram
+
+
+
+
+2. Base Condition - Induction - Hypothesis
+    - Hypothesis design
+    - Induction
+    - Base condition (smallest valid input)
